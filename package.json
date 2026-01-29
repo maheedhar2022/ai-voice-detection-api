@@ -1,0 +1,29 @@
+{
+  "name": "ai-voice-detection-api",
+  "version": "1.0.0",
+  "description": "REST API for detecting whether a voice sample is AI-generated or human across multiple languages (English, Hindi, Tamil, Telugu, Malayalam). Built for the AI-Generated Voice Detection (Multi-Language) challenge.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitbyDushyanth/ai-voice-detection-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GitbyDushyanth/ai-voice-detection-api/issues"
+  },
+  "homepage": "https://github.com/GitbyDushyanth/ai-voice-detection-api#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
