@@ -156,12 +156,6 @@ ai-voice-detection-api/
 
 This project is licensed under the ISC License.
 
-## 👤 Author
-
-**GitbyDushyanth**
-
-- GitHub: [@GitbyDushyanth](https://github.com/GitbyDushyanth)
-
 ## 🐛 Issues
 
 Found a bug or have a suggestion? Please [open an issue](https://github.com/GitbyDushyanth/ai-voice-detection-api/issues).
